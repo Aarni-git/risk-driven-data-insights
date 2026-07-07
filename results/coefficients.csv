@@ -1,0 +1,11 @@
+feature,coefficient
+loan_amnt,0.00010770471627506592
+loan_int_rate,1.4134321174408495e-07
+percent_income_segment_High stress,1.9075360999009345e-08
+loan_amount_segment_Large,8.717709754764893e-09
+income_segment_High,2.8674500148152035e-09
+loan_percent_income,2.7534324069553527e-09
+loan_amount_segment_Medium,-1.0947203286396982e-08
+income_segment_Medium,-1.1086323650885711e-08
+percent_income_segment_Medium stress,-2.151072140490964e-08
+person_income,-4.0884822707700526e-05
