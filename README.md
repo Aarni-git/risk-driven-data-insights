@@ -25,8 +25,12 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Open Jupyter Notebook:
+Open JupyterLab:
 
+```bash
+jupyterlab
+```
+or
 ```bash
 jupyter notebook
 ```
@@ -71,7 +75,7 @@ This project shows how simple, interpretable models can reveal clear risk patter
 - Scikit-learn  
 - Seaborn  
 - Matplotlib  
-- Jupyter Notebook
+- JupyterLab
 
 ---
 
