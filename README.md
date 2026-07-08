@@ -11,7 +11,7 @@ The goal is to understand default risk drivers, visualize model performance, and
 data/ – dataset  
 notebooks/ – analysis and modeling (01–06)  
 results/ – saved outputs (coefficients, metrics)  
-dashboard/ – final visualizations  
+visuals/ – final visualizations  
 README.md – project overview
 ```
 
