@@ -28,7 +28,7 @@ pip install -r requirements.txt
 Open JupyterLab:
 
 ```bash
-jupyterlab
+jupyter lab
 ```
 or
 ```bash
